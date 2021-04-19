@@ -2,9 +2,10 @@
 
 - 🌱 I'm an undergraduate student majoring in International Studies at UNC Charlotte. 
 
-<!---- 👀  I'm interested in sustainable development,--->
+<!---- 👀  I'm interested in sustainable development, FIND MORE INTERESTS/ CHANGE PHOTO/TAKE PHOTO--->
 
 - 📫 Drop me a line if you'd like to connect! 
+
 - (Ps. 💬 Hablo español!)
 
 <!---
