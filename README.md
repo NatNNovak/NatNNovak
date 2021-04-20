@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nat!
+- 👋🏼 Hi, I’m Nat!
 
 - 🌱 I'm an undergraduate student majoring in International Studies at UNC Charlotte. 
 
@@ -6,7 +6,7 @@
 
 - 📫 Drop me a line if you'd like to connect! 
 
-- (Ps. 💬 Hablo español!)
+- (Ps. 💬 ¡Hablo español!)
 
 <!---
 NatNNovak/NatNNovak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
