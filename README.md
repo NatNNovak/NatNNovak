@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m Nat!
 
-- 🌱 I'm an undergraduate student majoring in International Studies at UNC Charlotte. 
+- 🌱 I'm an undergraduate student majoring in International Studies! 
 
  👀  I'm interested in languages, substainable development, and reading.
 
